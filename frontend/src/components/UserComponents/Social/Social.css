@@ -1,0 +1,48 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .text-lg {
+    font-size: 1.125rem; 
+  }
+  
+  .font-bold {
+    font-weight: 700;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1rem; 
+  }
+  
+  .mt-8 {
+    margin-top: 2rem; 
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .space-x-4 > * + * {
+    margin-left: 1rem; 
+  }
+  
+  .text-blue-500 {
+    color: #3f83f8; 
+  }
+  
+  .hover\:text-blue-700:hover {
+    color: #1d4ed8; 
+  }
+  
+  .text-pink-500 {
+    color: #ec4899; 
+  }
+  
+  .hover\:text-pink-700:hover {
+    color: #d946ef; 
+  }
+  

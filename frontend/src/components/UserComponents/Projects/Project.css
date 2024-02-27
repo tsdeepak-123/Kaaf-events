@@ -1,0 +1,9 @@
+.project-heading{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    /* text-transform: uppercase;
+    letter-spacing: 2px; */
+}
